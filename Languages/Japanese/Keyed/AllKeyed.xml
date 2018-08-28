@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PERSONALSHIELD_BROKEN>シールド消失</PERSONALSHIELD_BROKEN>
+  <DM_MISS>ミス</DM_MISS>
+  <EnableIndicatorNeutralFactions>中立派閥のダメージ表示を有効</EnableIndicatorNeutralFactions>
+  <EnableIndicatorNeutralFactions_Desc>攻撃目標が無いか派閥に所属していない場合、ダメージは表示されません。</EnableIndicatorNeutralFactions_Desc>
+  <DisplayPawnsOnly>ダメージ表示はポーンのみ</DisplayPawnsOnly>
+  <DisplayPawnsOnly_Desc>攻撃目標がポーンでない場合、ダメージは表示されません。</DisplayPawnsOnly_Desc>
+
+</LanguageData>
